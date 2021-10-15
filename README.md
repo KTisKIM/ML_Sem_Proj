@@ -1,2 +1,2 @@
 # ML_Sem_Proj
-Team Semester Project for WSU Machine Learning(CptS 437)
+Team Semester Project for Machine Learning class in 2021.
